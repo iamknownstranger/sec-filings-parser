@@ -1,0 +1,48 @@
+{
+    "name": "financial_summary",
+    "summary": "Financial summary for the years ended January 28, 2024, and January 29, 2023, including revenue, gross margin, operating expenses, operating income, net income, and net income per diluted share.",
+    "columns": [
+      "Description",
+      "Jan_28_2024",
+      "Jan_29_2023",
+      "Change"
+    ],
+    "data": [
+      {
+        "Description": "Revenue",
+        "Jan_28_2024": "$60,922",
+        "Jan_29_2023": "$26,974",
+        "Change": "Up 126%"
+      },
+      {
+        "Description": "Gross margin",
+        "Jan_28_2024": "73.2%",
+        "Jan_29_2023": "56.9%",
+        "Change": "Up 15.8 pts"
+      },
+      {
+        "Description": "Operating expenses",
+        "Jan_28_2024": "$12,379",
+        "Jan_29_2023": "$11,152",
+        "Change": "Up 2%"
+      },
+      {
+        "Description": "Operating income",
+        "Jan_28_2024": "$32,143",
+        "Jan_29_2023": "$4,224",
+        "Change": "Up 661%"
+      },
+      {
+        "Description": "Net income",
+        "Jan_28_2024": "$29,760",
+        "Jan_29_2023": "$4,368",
+        "Change": "Up 581%"
+      },
+      {
+        "Description": "Net income per diluted share",
+        "Jan_28_2024": "$11.93",
+        "Jan_29_2023": "$1.74",
+        "Change": "Up 586%"
+      }
+    ]
+  }
